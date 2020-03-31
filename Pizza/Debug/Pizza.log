@@ -1,0 +1,3 @@
+﻿  Pizza.cpp
+C:\Users\FlafyKing\source\repos\Pizza\Pizza.cpp(50,23): warning C4018: '<': signed/unsigned mismatch
+  Pizza.vcxproj -> C:\Users\FlafyKing\source\repos\Pizza\Debug\Pizza.exe
